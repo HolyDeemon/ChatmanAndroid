@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chatman</string>
+    <string name="exit" translatable="true">Выход</string>
+    <string name="email">Email</string>
+    <string name="password" translatable="true">Пароль</string>
+    <string name="login" translatable="true">Войти</string>
+    <string name="regitrate" translatable="true">Зарегестрироваться</string>
+    <string name="name" translatable="true">Имя</string>
+    <string name="check_password" translatable="true">Проверка пароля</string>
+    <string name="sing_in" translatable="true">Вход</string>
+    <string name="sing_up" translatable="true">Регистрация</string>
+    <string name="logout" translatable="true">выйти</string>
+    <string name="my_chats" translatable="true">Мои чаты</string>
+    <string name="enter_message" translatable="true">Ввести сообщение</string>
+    <string name="sendBtn" translatable="true">Send</string>
+    <string name="channel_description" translatable="true">Вы зашли в Chatman!</string>
+    <string name="greetings" translatable="true">Привет</string>
+    <string name="description" translatable="true">Вы только что зашли!</string>
+</resources>

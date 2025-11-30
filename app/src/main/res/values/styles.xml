@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppBaseTheme" parent="android:Theme.Light" />
+
+    <style name="Button.Blue" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:background">@drawable/rounded_ui</item>
+        <item name="android:backgroundTint">@color/blue</item>
+    </style>
+
+    <style name="TabsStyles" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:background">@color/blue</item>
+    </style>
+
+    <style name="TabTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:background">@drawable/rounded_ui</item>
+        <item name="android:backgroundTint">@color/white</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:radius">60dp</item>
+    </style>
+
+
+
+</resources>

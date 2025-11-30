@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Chatman</string>
+    <string name="exit" translatable="true">Exit</string>
+    <string name="email">Email</string>
+    <string name="password" translatable="true">Password</string>
+    <string name="login" translatable="true">Login</string>
+    <string name="regitrate" translatable="true">Regitrate</string>
+    <string name="name" translatable="true">Name</string>
+    <string name="check_password" translatable="true">Check password</string>
+    <string name="sing_in" translatable="true">Sing In</string>
+    <string name="sing_up" translatable="true">Sing Up</string>
+    <string name="logout" translatable="true">logout</string>
+    <string name="my_chats" translatable="true">My Chats</string>
+    <string name="enter_message" translatable="true">Enter message...</string>
+    <string name="sendBtn" translatable="true">Send</string>
+    <string name="channel_description" translatable="true">you log in Chatman!</string>
+    <string name="greetings" translatable="true">"Hello"</string>
+    <string name="description" translatable="true">You just logged in!</string>
+</resources>
